@@ -1,10 +1,5 @@
 # Hi there, I'm Zainab 👋
 
-<p align="left">
-  <img src="https://img.shields.io/badge/UFSC-Computer_Science-005696?style=for-the-badge&logo=academia&logoColor=white" alt="UFSC" />
-  <img src="https://img.shields.io/badge/LabSEC-Developer_%26_Researcher-1B365D?style=for-the-badge&logo=shield&logoColor=white" alt="LabSEC" />
-</p>
-
 I'm a **Computer Science** undergraduate at the **Federal University of Santa Catarina (UFSC)** and a **Software Developer & Researcher** at **LabSEC** (Computer Security Laboratory).
 
 ---
@@ -41,11 +36,11 @@ I'm a **Computer Science** undergraduate at the **Federal University of Santa Ca
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Zainab's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zhanady&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Zainab's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhanady&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true" alt="GitHub Streak" width="97%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zhanady&theme=radical&hide_border=true" alt="GitHub Streak" width="97%" />
 </p>
 
