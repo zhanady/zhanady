@@ -1,14 +1,6 @@
 # Hi there, I'm Zainab 👋
 
-I'm a **Computer Science** undergraduate at the **Federal University of Santa Catarina (UFSC)** and a **Software Developer & Researcher** at **LabSEC** (Computer Security Laboratory).
-
----
-
-### 💻 About Me
-
-* 🎓 Pursuing a B.S. in Computer Science at **UFSC**
-* 🛡️ Building secure platforms, APIs, and backend architectures at **LabSEC**
-* ⚙️ Exploring distributed systems, network security, and formal methods
+I'm a **Computer Science** undergraduate at the **Federal University of Santa Catarina (UFSC)** and a **Software Developer & Researcher** at **LabSEC** 
 
 ---
 
