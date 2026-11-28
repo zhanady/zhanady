@@ -13,13 +13,15 @@ I'm a **Computer Science** undergraduate at the **Federal University of Santa Ca
 ### 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java&perline=10" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,go,haskell&perline=10" alt="Languages" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=linux,bash,git,github,latex&perline=10" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=linux,bash,git,github,docker,latex&perline=10" alt="Tools" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/VHDL-4B275F?style=for-the-badge" alt="VHDL" />
+  <img src="https://img.shields.io/badge/Prolog-E61B23?style=for-the-badge" alt="Prolog" />
+  <img src="https://img.shields.io/badge/Assembly_MIPS-525252?style=for-the-badge" alt="Assembly MIPS" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
   <img src="https://img.shields.io/badge/Make-427819?style=for-the-badge&logo=gnu&logoColor=white" alt="Make" />
 </p>
